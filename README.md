@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hola, soy Leandro Biato 👋
 
-<!--
-**lbiato/lbiato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Líder de Créditos y Cobranzas | Automatización financiera con IA**
 
-Here are some ideas to get you started:
+Trabajo en la intersección de finanzas y tecnología: gestiono créditos, cobranzas y riesgo crediticio, y automatizo los procesos del área con Python, n8n e IA. Reduje más del 80% de la carga operativa de mi equipo automatizando tareas que antes llevaban horas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente me estoy formando en Machine Learning aplicado a riesgo crediticio, con un roadmap orientado a MLOps.
+
+## 🔧 Stack
+
+- **Backend:** Python · FastAPI · SQL (PostgreSQL / Supabase)
+- **Frontend:** React · TypeScript
+- **Automatización:** n8n (self-hosted) · Power Automate · Power Apps · VBA
+- **IA:** Anthropic API (Claude) · integración de LLMs en flujos financieros
+- **Infra:** Vercel · Cloudflare
+
+## 📊 Dominio
+
+Scoring financiero · políticas de crédito · aging y KPIs de mora · conciliaciones · tesorería
+
+## 📚 En curso
+
+- Licenciatura en Finanzas (Universidad Siglo 21)
+- Tecnicatura en Programación (UTN)
+- Python for Everybody (Universidad de Michigan, Coursera)
+
+## 📫 Contacto
+
+- LinkedIn
+- lbiato01@gmail.com
