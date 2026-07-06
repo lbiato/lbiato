@@ -26,5 +26,5 @@ Scoring financiero · políticas de crédito · aging y KPIs de mora · concilia
 
 ## 📫 Contacto
 
-- LinkedIn
+- https://www.linkedin.com/in/leandro-biato/
 - lbiato01@gmail.com
